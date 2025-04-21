@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0797-rabbits-in-forest) |
 | [1014-k-closest-points-to-origin](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1014-k-closest-points-to-origin) |
+| [2050-count-good-numbers](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2050-count-good-numbers) |
 ## Geometry
 |  |
 | ------- |
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2249-count-the-hidden-sequences](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2249-count-the-hidden-sequences) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
