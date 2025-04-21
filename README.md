@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0658-find-k-closest-elements) |
+| [0797-rabbits-in-forest](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0797-rabbits-in-forest) |
 | [1014-k-closest-points-to-origin](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1127-last-stone-weight) |
 | [2249-count-the-hidden-sequences](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2249-count-the-hidden-sequences) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0797-rabbits-in-forest](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0797-rabbits-in-forest) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0797-rabbits-in-forest](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0797-rabbits-in-forest) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0797-rabbits-in-forest](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0797-rabbits-in-forest) |
 | [1014-k-closest-points-to-origin](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
 |  |
