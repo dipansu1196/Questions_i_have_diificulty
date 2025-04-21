@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1127-last-stone-weight) |
+| [2249-count-the-hidden-sequences](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2249-count-the-hidden-sequences) |
 ## Sorting
 |  |
 | ------- |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0295-find-median-from-data-stream) |
+## Prefix Sum
+|  |
+| ------- |
+| [2249-count-the-hidden-sequences](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2249-count-the-hidden-sequences) |
 <!---LeetCode Topics End-->
