@@ -1,22 +1,19 @@
 class Solution {
 public:
     int numRabbits(vector<int>& answers) {
-        unordered_map<int,int> mp;
-        int result=0;
-        for(int i=0;i<answers.size();i++){
-            if(!mp[answers[i]+1]){
-                result+=answers[i]+1;
-                if(answers[i]==0) continue;
-                mp[answers[i]+1]=1;
-            }else{
-                mp[answers[i]+1]++;
-                int key= answers[i]+1;
-                int val=mp[key];
-                if(key==val){
-                    mp.erase(key);
-                }
-            }
+        unordered_map<int,int>mp;
+        for(auto & n: answers){
+            mp[n]++;
         }
-        return result;
+        int ans=0;
+        for( auto & it: mp){
+            int x=it.first;
+            int count= it.second;
+            int groupsize= (x+1);
+            int groups=ceil((double)count/groupsize);
+            ans+= groups*groupsize;
+
+        }
+        return ans;
     }
 };
