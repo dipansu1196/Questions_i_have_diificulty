@@ -10,32 +10,22 @@
  * };
  */
 class Solution {
-public:
-int levels(TreeNode* root){
+
+void preorder(TreeNode* root,int level,vector<int> &result){
     if(root==NULL){
-        return 0;
+        return ;
     }
-    return 1+ max(levels(root->left),levels(root->right));
-}
-void nthLevel(TreeNode* root, int curr,int level,vector<int>& ans){
-    if(root==NULL) return;
-    if(curr==level){
-       ans[level]=root->val;
-        return;
+    if(result.size()<level){
+        result.push_back(root->val);
     }
-    nthLevel(root->left,curr+1,level,ans);
-    nthLevel(root->right,curr+1,level,ans);
+    preorder(root->right,level+1,result);
+    preorder(root->left,level+1,result);
 }
 
-void levelOrder(TreeNode* root, vector<int>& ans){
-    int n= ans.size();
-    for(int i=0;i<n;i++){
-        nthLevel(root,0,i,ans);
-    }
-}
+public:
     vector<int> rightSideView(TreeNode* root) {
-        vector<int>ans(levels(root),0);
-        levelOrder(root,ans);
-        return ans;
+        vector<int> result;
+        preorder(root,1,result);
+        return result;
     }
 };
