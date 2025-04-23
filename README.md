@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0056-merge-intervals) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0435-non-overlapping-intervals) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1014-k-closest-points-to-origin) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0145-binary-tree-postorder-traversal) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0145-binary-tree-postorder-traversal) |
@@ -202,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0784-insert-into-a-binary-search-tree) |
