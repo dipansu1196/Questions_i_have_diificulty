@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0543-diameter-of-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -202,4 +205,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
