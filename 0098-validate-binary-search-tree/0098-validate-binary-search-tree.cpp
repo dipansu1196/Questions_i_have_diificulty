@@ -23,7 +23,7 @@ void helper(TreeNode* root,vector<int>& ans){
      
        helper(root,ans);
        
-       for(int i=1;i<ans.size();i++){
+       for(int i=1;i<ans.size();i++){ // take directly ans.size() to avoid premature size calculation of ans vetor
         if(ans[i]<=ans[i-1]) return false;
        }
        return true;
