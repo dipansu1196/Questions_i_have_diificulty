@@ -1,31 +1,30 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
-   void helper(TreeNode* root, long long sum, int &count){
-    if(root==NULL){
-        return;
+    int result = 0;
+
+    void dfs(TreeNode* node, vector<long long>& path, int targetSum) {
+        if (!node) return;
+
+        path.push_back(node->val);
+
+        long long sum = 0;
+        // Check all suffixes of the current path ending at this node
+        for (int i = path.size() - 1; i >= 0; --i) {
+            sum += path[i];
+            if (sum == targetSum) {
+                result++;
+            }
+        }
+
+        dfs(node->left, path, targetSum);
+        dfs(node->right, path, targetSum);
+
+        path.pop_back(); // backtrack
     }
-    if((long long)root->val==sum){
-        count++;
-    }
-    helper(root->left,sum-(long long)(root->val),count);
-    helper(root->right,sum-(long long)(root->val),count);
-   }
+
     int pathSum(TreeNode* root, int targetSum) {
-        if(!root) return 0;
-        int count=0;
-        helper(root,(long long)targetSum,count);
-        count+= (pathSum(root->left,targetSum)+pathSum(root->right,targetSum));
-        return count;
+        vector<long long> path;
+        dfs(root, path, targetSum);
+        return result;
     }
 };
