@@ -11,19 +11,21 @@
  */
 class Solution {
 public:
-long long maxTree(TreeNode* root){
-    if(root==NULL) return LLONG_MIN;
-    return max((long long)(root->val),max(maxTree(root->right),maxTree(root->left)));
-
-}
-long long minTree(TreeNode* root){
-    if(root==NULL) return LLONG_MAX;
-    return min((long long)(root->val),min(minTree(root->right),minTree(root->left)));
+void helper(TreeNode* root,vector<int>& ans){
+    if(root==NULL )return ;
+    helper(root->left,ans);
+    ans.push_back(root->val);
+    helper(root->right,ans);
 
 }
     bool isValidBST(TreeNode* root) {
-        if(root==NULL||(root->right==NULL&&root->left==NULL)) return true;
-        if((long long)(root->val)<= maxTree(root->left)|| (long long)(root->val)>= minTree(root->right)) return false;
-    return isValidBST(root->left ) && isValidBST(root->right);
+       vector<int> ans;
+     
+       helper(root,ans);
+       
+       for(int i=1;i<ans.size();i++){
+        if(ans[i]<=ans[i-1]) return false;
+       }
+       return true;
     }
 };
