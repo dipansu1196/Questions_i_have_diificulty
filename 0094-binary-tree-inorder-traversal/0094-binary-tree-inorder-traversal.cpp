@@ -9,6 +9,7 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+ // this is morris traversal having space complexity of 0(n);
 class Solution {
 public:
     vector<int> inorderTraversal(TreeNode* root) {
