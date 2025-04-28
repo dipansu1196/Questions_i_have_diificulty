@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1127-last-stone-weight](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1127-last-stone-weight) |
 | [2249-count-the-hidden-sequences](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2249-count-the-hidden-sequences) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Sorting
 |  |
@@ -90,11 +91,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0658-find-k-closest-elements) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Sliding Window
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0658-find-k-closest-elements) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Math
 |  |
 | ------- |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2249-count-the-hidden-sequences](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2249-count-the-hidden-sequences) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Recursion
 |  |
 | ------- |
