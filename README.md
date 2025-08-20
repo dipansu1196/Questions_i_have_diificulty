@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0215-kth-largest-element-in-an-array) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0257-binary-tree-paths) |
 ## Stack
@@ -240,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
