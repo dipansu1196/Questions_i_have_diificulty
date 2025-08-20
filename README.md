@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0002-add-two-numbers) |
 | [0797-rabbits-in-forest](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0797-rabbits-in-forest) |
 | [1014-k-closest-points-to-origin](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1014-k-closest-points-to-origin) |
 | [2050-count-good-numbers](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2050-count-good-numbers) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0002-add-two-numbers) |
 | [2050-count-good-numbers](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2050-count-good-numbers) |
 ## Tree
 |  |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Bit Manipulation
 |  |
