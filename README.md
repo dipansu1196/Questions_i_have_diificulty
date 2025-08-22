@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0658-find-k-closest-elements) |
 ## Binary Search
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0234-palindrome-linked-list) |
 | [2050-count-good-numbers](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2050-count-good-numbers) |
 ## Tree
 |  |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0234-palindrome-linked-list) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
