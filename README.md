@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0206-reverse-linked-list) |
 | [2050-count-good-numbers](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2050-count-good-numbers) |
 ## Tree
 |  |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0206-reverse-linked-list](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0206-reverse-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
