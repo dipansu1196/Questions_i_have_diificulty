@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1127-last-stone-weight) |
 | [2249-count-the-hidden-sequences](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Sorting
 |  |
