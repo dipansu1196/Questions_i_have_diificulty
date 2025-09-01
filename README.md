@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0547-number-of-provinces) |
 | [0669-trim-a-binary-search-tree](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0669-trim-a-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0547-number-of-provinces) |
 ## String
 |  |
 | ------- |
@@ -262,4 +264,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0078-subsets) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
