@@ -1,25 +1,30 @@
 class Solution {
 public:
-    bool dfsCheck(vector<vector<int>>& graph, int curr, vector<int>& color, int currColor) {
-        color[curr] = currColor;
+bool BFS(vector<vector<int>>& graph,int i,vector<int>& color,int currColor){
+queue<int> que;
+que.push(i);
 
-        for (int v : graph[curr]) {
-            if (color[v] == color[curr]) return false; // same color as parent → not bipartite
-            
-            if (color[v] == -1) {
-                if (!dfsCheck(graph, v, color, 1 - currColor)) return false;
-            }
-        }
-        return true;
+color[i]=currColor;
+while(!que.empty()){
+    int u= que.front();
+    que.pop();
+    for(auto &v:graph[u] ){
+        if(color[v]==color[u] ) return false;
+        else if(color[v]==-1){ color[v]=1-color[u];
+        que.push(v);}
     }
-
+}
+return true;
+}
     bool isBipartite(vector<vector<int>>& graph) {
-        int V = graph.size();
-        vector<int> color(V, -1);  // -1 = uncolored, 0/1 are two colors
+        int V= graph.size();
 
-        for (int i = 0; i < V; i++) {
-            if (color[i] == -1) {
-                if (!dfsCheck(graph, i, color, 0)) return false;
+        vector<int> color(V,-1);
+
+        for(int i=0;i<V;i++){
+            if(color[i]==-1){
+                if(!BFS(graph,i,color,1))
+                return false;
             }
         }
         return true;
