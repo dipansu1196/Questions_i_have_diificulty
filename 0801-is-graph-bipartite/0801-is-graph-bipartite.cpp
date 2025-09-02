@@ -4,7 +4,7 @@ bool BFS(vector<vector<int>>& graph,int i,vector<int>& color,int currColor){
 queue<int> que;
 que.push(i);
 
-color[i]=currColor;
+ if (color[i] == -1) color[i] = currColor;
 while(!que.empty()){
     int u= que.front();
     que.pop();
