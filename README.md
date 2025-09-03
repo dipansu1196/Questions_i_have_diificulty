@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0658-find-k-closest-elements) |
 | [0797-rabbits-in-forest](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0797-rabbits-in-forest) |
 | [1014-k-closest-points-to-origin](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1014-k-closest-points-to-origin) |
+| [1032-satisfiability-of-equality-equations](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1032-satisfiability-of-equality-equations) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1127-last-stone-weight](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1127-last-stone-weight) |
 | [2249-count-the-hidden-sequences](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2249-count-the-hidden-sequences) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0257-binary-tree-paths) |
+| [1032-satisfiability-of-equality-equations](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1032-satisfiability-of-equality-equations) |
 ## Backtracking
 |  |
 | ------- |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0801-is-graph-bipartite) |
+| [1032-satisfiability-of-equality-equations](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1032-satisfiability-of-equality-equations) |
 ## Graph
 |  |
 | ------- |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0801-is-graph-bipartite) |
+| [1032-satisfiability-of-equality-equations](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1032-satisfiability-of-equality-equations) |
 ## Topological Sort
 |  |
 | ------- |
