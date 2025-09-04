@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0658-find-k-closest-elements) |
+| [0744-network-delay-time](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0744-network-delay-time) |
 | [1014-k-closest-points-to-origin](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1127-last-stone-weight) |
 ## Quickselect
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0547-number-of-provinces) |
 | [0669-trim-a-binary-search-tree](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0669-trim-a-binary-search-tree) |
+| [0744-network-delay-time](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0801-is-graph-bipartite) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0801-is-graph-bipartite) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0801-is-graph-bipartite) |
 | [1032-satisfiability-of-equality-equations](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1032-satisfiability-of-equality-equations) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -299,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0210-course-schedule-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
