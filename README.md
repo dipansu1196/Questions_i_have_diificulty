@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1127-last-stone-weight](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1753-path-with-minimum-effort) |
 | [2249-count-the-hidden-sequences](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0744-network-delay-time) |
 | [1014-k-closest-points-to-origin](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1127-last-stone-weight) |
+| [1753-path-with-minimum-effort](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1753-path-with-minimum-effort) |
 ## Quickselect
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0658-find-k-closest-elements](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0658-find-k-closest-elements) |
+| [1753-path-with-minimum-effort](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1753-path-with-minimum-effort) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Sliding Window
 |  |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0801-is-graph-bipartite) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1753-path-with-minimum-effort](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1753-path-with-minimum-effort) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Binary Tree
 |  |
@@ -233,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0801-is-graph-bipartite) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1753-path-with-minimum-effort](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1753-path-with-minimum-effort) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## String
 |  |
@@ -288,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0801-is-graph-bipartite) |
 | [1032-satisfiability-of-equality-equations](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1032-satisfiability-of-equality-equations) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1753-path-with-minimum-effort](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1753-path-with-minimum-effort) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Graph
 |  |
@@ -313,4 +319,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1171-shortest-path-in-binary-matrix](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1753-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
