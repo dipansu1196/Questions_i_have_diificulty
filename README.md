@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0347-top-k-frequent-elements) |
+| [0433-minimum-genetic-mutation](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0433-minimum-genetic-mutation) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0797-rabbits-in-forest](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0797-rabbits-in-forest) |
 ## Bucket Sort
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0226-invert-binary-tree) |
+| [0433-minimum-genetic-mutation](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0433-minimum-genetic-mutation) |
 | [0547-number-of-provinces](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0801-is-graph-bipartite) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0257-binary-tree-paths) |
+| [0433-minimum-genetic-mutation](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0433-minimum-genetic-mutation) |
 | [1032-satisfiability-of-equality-equations](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1032-satisfiability-of-equality-equations) |
 ## Backtracking
 |  |
