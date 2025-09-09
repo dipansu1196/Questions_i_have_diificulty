@@ -22,7 +22,7 @@ public:
 
                 for(char ch:{'A','C','G','T'}){
                     for(int i=0;i<curr.length();i++){
-                        if(curr[i]==ch) continue;
+                        
                         string neighbour= curr;
                         neighbour[i]=ch;
                         if(visited.find(neighbour)==visited.end()&& bankset.find(neighbour)!=bankset.end()){
