@@ -20,7 +20,7 @@ public:
 
                 if(curr==end) return level;
 
-                for(char ch:{'A','C','G','T'}){
+                for(char ch:"ACGT"){
                     for(int i=0;i<curr.length();i++){
                         
                         string neighbour= curr;
