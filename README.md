@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0433-minimum-genetic-mutation) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0797-rabbits-in-forest](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0797-rabbits-in-forest) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0669-trim-a-binary-search-tree) |
 | [0744-network-delay-time](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0801-is-graph-bipartite) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1753-path-with-minimum-effort) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0801-is-graph-bipartite) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1032-satisfiability-of-equality-equations) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1706-min-cost-to-connect-all-points](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1706-min-cost-to-connect-all-points) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0801-is-graph-bipartite) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1032-satisfiability-of-equality-equations) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1706-min-cost-to-connect-all-points](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1706-min-cost-to-connect-all-points) |
