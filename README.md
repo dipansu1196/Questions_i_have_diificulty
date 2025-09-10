@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0669-trim-a-binary-search-tree) |
 | [0744-network-delay-time](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0922-possible-bipartition) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0257-binary-tree-paths) |
+| [0813-all-paths-from-source-to-target](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0813-all-paths-from-source-to-target) |
 ## Stack
 |  |
 | ------- |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0984-most-stones-removed-with-same-row-or-column) |
