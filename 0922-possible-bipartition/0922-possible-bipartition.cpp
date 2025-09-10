@@ -7,7 +7,7 @@ bool checkbfs(auto & adj,int source,vector<int> & color){
     while(!q.empty()){
         int u= q.front();
         q.pop();
-        for(int & v:adj[u]){
+        for(auto & v:adj[u]){
             if(color[v]==color[u]) return false;
             if(color[v]==-1){
                 q.push(v);
