@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0257-binary-tree-paths) |
 | [0433-minimum-genetic-mutation](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0433-minimum-genetic-mutation) |
 | [1032-satisfiability-of-equality-equations](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1032-satisfiability-of-equality-equations) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2364-longest-path-with-different-adjacent-characters) |
 ## Backtracking
 |  |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1032-satisfiability-of-equality-equations) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1706-min-cost-to-connect-all-points](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1753-path-with-minimum-effort) |
