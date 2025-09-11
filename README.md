@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1753-path-with-minimum-effort) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2249-count-the-hidden-sequences](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2249-count-the-hidden-sequences) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2364-longest-path-with-different-adjacent-characters) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1753-path-with-minimum-effort](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2121-find-if-path-exists-in-graph) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Binary Tree
 |  |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0257-binary-tree-paths) |
 | [0433-minimum-genetic-mutation](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0433-minimum-genetic-mutation) |
 | [1032-satisfiability-of-equality-equations](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1032-satisfiability-of-equality-equations) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2364-longest-path-with-different-adjacent-characters) |
 ## Backtracking
 |  |
 | ------- |
@@ -336,12 +340,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1706-min-cost-to-connect-all-points](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2121-find-if-path-exists-in-graph) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0210-course-schedule-ii) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2364-longest-path-with-different-adjacent-characters) |
 ## Shortest Path
 |  |
 | ------- |
