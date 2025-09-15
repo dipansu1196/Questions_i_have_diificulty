@@ -1,13 +1,12 @@
 class Solution {
 public:
     int count = 0;
-    void dfs(int node, int parent, vector<vector<pair<int, int>>>& adj, vector<bool>& visited) {
-        visited[node] = true;
-        
+    void dfs(int node, int parent, vector<vector<pair<int, int>>>& adj) {
+
         for (auto& [child, sign] : adj[node]) {
-            if (!visited[child]) {
+            if (child != parent) {
                 count += sign;
-                dfs(child, node, adj, visited);
+                dfs(child, node, adj);
             }
         }
     }
@@ -18,8 +17,8 @@ public:
             adj[connection[0]].push_back({connection[1], 1});
             adj[connection[1]].push_back({connection[0], 0});
         }
-        vector<bool> visited(n, false);
-        dfs(0, -1, adj, visited);
+ 
+        dfs(0, -1, adj);
         return count;
     }
 };
