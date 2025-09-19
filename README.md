@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0658-find-k-closest-elements) |
 | [0797-rabbits-in-forest](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0797-rabbits-in-forest) |
+| [0869-similar-string-groups](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0869-similar-string-groups) |
 | [1014-k-closest-points-to-origin](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1014-k-closest-points-to-origin) |
 | [1032-satisfiability-of-equality-equations](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1032-satisfiability-of-equality-equations) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0433-minimum-genetic-mutation) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0797-rabbits-in-forest](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0797-rabbits-in-forest) |
+| [0869-similar-string-groups](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0869-similar-string-groups) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Bucket Sort
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0813-all-paths-from-source-to-target) |
+| [0869-similar-string-groups](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0869-similar-string-groups) |
 | [0871-keys-and-rooms](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0813-all-paths-from-source-to-target) |
+| [0869-similar-string-groups](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0869-similar-string-groups) |
 | [0871-keys-and-rooms](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0922-possible-bipartition) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -271,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0257-binary-tree-paths](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0257-binary-tree-paths) |
 | [0433-minimum-genetic-mutation](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0433-minimum-genetic-mutation) |
+| [0869-similar-string-groups](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0869-similar-string-groups) |
 | [1032-satisfiability-of-equality-equations](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2364-longest-path-with-different-adjacent-characters) |
@@ -322,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0801-is-graph-bipartite) |
+| [0869-similar-string-groups](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0869-similar-string-groups) |
 | [0922-possible-bipartition](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1032-satisfiability-of-equality-equations) |
