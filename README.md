@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1014-k-closest-points-to-origin) |
+| [2379-maximum-total-importance-of-roads](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2379-maximum-total-importance-of-roads) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0797-rabbits-in-forest](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/0797-rabbits-in-forest) |
+| [2379-maximum-total-importance-of-roads](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2379-maximum-total-importance-of-roads) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1127-last-stone-weight) |
 | [1753-path-with-minimum-effort](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1753-path-with-minimum-effort) |
+| [2379-maximum-total-importance-of-roads](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2379-maximum-total-importance-of-roads) |
 ## Quickselect
 |  |
 | ------- |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2121-find-if-path-exists-in-graph) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2364-longest-path-with-different-adjacent-characters) |
+| [2379-maximum-total-importance-of-roads](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2379-maximum-total-importance-of-roads) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/dipansu1196/Questions_i_have_diificulty/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
